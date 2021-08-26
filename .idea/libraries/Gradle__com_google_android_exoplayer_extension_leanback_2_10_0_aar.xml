@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:extension-leanback:2.10.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/997a94bd0f0b5889899ecd77842f875a/jetified-extension-leanback-2.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/997a94bd0f0b5889899ecd77842f875a/jetified-extension-leanback-2.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/997a94bd0f0b5889899ecd77842f875a/jetified-extension-leanback-2.10.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-leanback/2.10.0/fc9767ff6809780042c98b78d838327f84e99d1d/extension-leanback-2.10.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/extension-leanback/2.10.0/5de32cfc960c97a8642ed375e3b9307b9ddcd56e/extension-leanback-2.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

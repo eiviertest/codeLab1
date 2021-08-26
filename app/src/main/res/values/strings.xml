@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cast Connect Codelab</string>
+    <string name="browse_title"><![CDATA[Cast Connect]]></string>
+    <string name="movie">Movie</string>
+</resources>
